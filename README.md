@@ -263,7 +263,7 @@ Use Postman or cURL to test the endpoints (details below).
 }
 ```
 
-### Products
+### Sale
 
 #### (i) Record a Sale
 
