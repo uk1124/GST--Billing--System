@@ -58,7 +58,7 @@ CREATE TABLE Sale (
 **1. Clone the Repository:**
 
 ```bash
-git clone https://github.com/uk1124/Railway-Management-System.git
+git clone https://github.com/uk1124/GST--Billing--System.git
 ```
 
 **2. Navigate to the Backend Directory:**
