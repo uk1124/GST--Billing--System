@@ -1,6 +1,6 @@
 # GST Billing System
 
-A GST Billing System built with Node.js, Express.js, React, and MySQL. This system allows users to manage categories, products, and sales with integrated GST calculations.
+A GST Billing System built with Node.js, Express.js, React, and MySQL. Frontend is made using Vanilla JS. This system allows users to manage categories, products, and sales with integrated GST calculations.
 
 ## Table of Contents
 
